@@ -2,7 +2,7 @@
 
 Goal:
 
-Use sales data analysis to find patterns, best-selling items, and revenue indicators to help in business decisionmaking.
+Use sales data analysis to find patterns, best-selling items, and revenue indicators to help in business decision making.
 
 This project will require you to delve into a sizable sales dataset in order to glean insightful information. In order
 
